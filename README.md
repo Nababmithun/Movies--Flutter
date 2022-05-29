@@ -12,31 +12,4 @@
 
 <h2 align="center">How to Use 🤔</h2>
 
-   ```
-   First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
-   
-   - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/movies
 
-   - Enter in directory:
-   $ cd movies
-
-   - For install dependencies:
-   $ flutter pub get
-
-   - Run the app: 
-   $ flutter run
-   ```
-
----
-
->This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, and the instructor [@Deivid Willyan](https://www.linkedin.com/in/deivid-willyan-19776abb/).<br>
-If it helped you, give ⭐, contribute, it will help me too 😉
-
----
-
-   <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
-   </div>
